@@ -1,0 +1,18 @@
+# Android
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+
+# Python / Raspberry
+**/venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+**/.env
+
+# Temporales
+*.log
+*.tmp
+*.save
